@@ -1,8 +1,1 @@
-<?php
-
-$a = 'хер';
-echo <pre>
-echo $a;
-echo </pre>;
-
-?>
+<p> Хуй </p>
